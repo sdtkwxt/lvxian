@@ -1,7 +1,9 @@
 # lvxian
 
 lvxian/捋线/≌/全等  
-**BY SIDE**
+**BY SIDE**  
+
+下载：https://github.com/sdtkwxt/lvxian/releases/tag/v1.0.0
 
 Click the vertices to swap, make all the lines non-overlapping.  
 规则很简单，点击两个顶点交换位置，使所有线条不重叠在一起即可过关。
